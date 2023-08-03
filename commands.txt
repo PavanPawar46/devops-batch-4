@@ -3,4 +3,7 @@ This is file for git commands practice.
   2. git status
   3. git clone
   4. git remote -v
+  5. git pull
+  6. git push
+  7. git fetch
 
